@@ -1,8 +1,5 @@
 apply plugin: 'groovy'
 
-group 'org.springframework.cloud'
-version '1.0.0.RELEASE'
-
 repositories {
   mavenCentral()
   maven { url "http://repo.spring.io/libs-release/" }

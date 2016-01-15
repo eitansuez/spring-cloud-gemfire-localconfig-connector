@@ -1,5 +1,6 @@
-package org.springframework.cloud.localconfig
+package io.pivotal.spring.cloud.localconfig
 
+import io.pivotal.spring.cloud.localconfig.GemfireServiceInfoCreator
 import org.springframework.cloud.service.UriBasedServiceData
 import spock.lang.Specification
 

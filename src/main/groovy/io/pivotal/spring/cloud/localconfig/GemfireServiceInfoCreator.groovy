@@ -1,6 +1,7 @@
-package org.springframework.cloud.localconfig
+package io.pivotal.spring.cloud.localconfig
 
 import io.pivotal.spring.cloud.service.common.GemfireServiceInfo
+import org.springframework.cloud.localconfig.LocalConfigServiceInfoCreator
 
 /**
  * Created by esuez on 1/15/16.
